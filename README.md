@@ -39,6 +39,8 @@ Chiper Project is a mini Twitter application with the following features.
 - clone the Repository
 - install the dependencies - `npm install` or `yarn install`
 
+hosted on - `https://twitter-chirper.netlify.app/`
+
 ## License
 
 MIT
